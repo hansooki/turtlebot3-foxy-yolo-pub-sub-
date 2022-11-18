@@ -92,6 +92,5 @@ if __name__ == '__main__':
 
 11/10 터틀봇3와 ros2 sub 구동 성공
     -robot_ws/src/cv_basics/pub,sub 수정
-    
-    11~18일 실패
+ 11~18일 실패
     
